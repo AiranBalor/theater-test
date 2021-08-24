@@ -1,3 +1,6 @@
+# Тестовое задание для отбора в команду разработки театра Любимовка
+Выполнено студентом Я.Практикума Коротковым Ильей.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
