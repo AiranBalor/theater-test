@@ -34,7 +34,6 @@ function App() {
     } else {
       setHasResult((prevState) => false);
     }
-    console.log(hasResult);
     return setFilteredData((prevState) => searchResult);
   }
 
