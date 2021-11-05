@@ -1,7 +1,7 @@
 {
   "name": "lubimovka-test",
   "version": "0.1.0",
-  "homepage": "https://airanbalor.github.io/theater-test/index.html",
+  "homepage": "https://airanbalor.github.io/theater-test/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
