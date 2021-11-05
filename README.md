@@ -21,3 +21,4 @@ npm run start  — запускает сервер
 ```
 
 Если все прошло успешно, проект можно будет увидеть в браузере по адресу: `http://localhost:3000`
+Посмотреть проект можно по ссылке: https://airanbalor.github.io/theater-test/index.html
